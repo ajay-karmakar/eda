@@ -76,7 +76,7 @@ while t<1:
 
 
     else:
-        print("Invalid output")
+        print("Invalid intput")
         import main
 
 
