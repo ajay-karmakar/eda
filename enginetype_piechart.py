@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv(r'C:\Users\AJAY KARMAKAR\PycharmProjects\PR391\Automobile_data.csv')
+df = pd.read_csv('Automobile_data.csv')
 print(df.head())
 
 columns_to_plot = ['make', 'engine-location']
